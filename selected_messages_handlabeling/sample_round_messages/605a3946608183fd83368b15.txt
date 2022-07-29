@@ -1,0 +1,6 @@
+Verschlüsselung: Firefox-Nightly soll altes TLS abschalten
+#Firefox
+ 
+#Browser
+Die großen Browser-Hersteller wollen im kommenden Frühjahr die alten TLS-Versionen 1․0 und 1․1 komplett deaktivieren․ Die Firefox-Entwickler werden das in ihrer Nightly-Version testen
+․
