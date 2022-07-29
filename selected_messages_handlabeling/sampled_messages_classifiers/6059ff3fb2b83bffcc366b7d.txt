@@ -1,0 +1,1 @@
+Wegen Youtube-Zensur usw. laden immer mehr Kanäle ihre Videos direkt auf Telegram hoch. Meistens auch noch in zu großer Auflösung. Bei vielen quillt der Speicher von Handy oder Tablet über. Hier die Lösung: Telegram, Einstellungen, Daten und Speicher, Speichernutzung, unten "Telegram Cache leeren". Das dürfte für Platz sorgen! Bei mir waren es 8GB!!!
